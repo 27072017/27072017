@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning в коледже
 - 💞️ I’m looking друзей
-- 📫 How to reach me ...
+- 📫 How to reach me есть вайбер инстаграм и тик ток
 
 <!---
 27072017/27072017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
