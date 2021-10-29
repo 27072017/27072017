@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoshida_li
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning в коледже
-- 💞️ I’m looking 
+- 💞️ I’m looking друзей
 - 📫 How to reach me ...
 
 <!---
